@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <ctime>
 #include <cstdlib>
 #include <string>
@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Класс для задания на циклы 9.
+// Функция для задания на циклы 9.
 
 /*bool isPrime(int num) {
     if (num <= 1) {
@@ -27,7 +27,7 @@ using namespace std;
     return true; 
     }*/
 
-// Класс для Задания на циклы 10.
+// Функция для Задания на циклы 10.
 
 /*bool isSymmetric(int num) {
     if (num < 0) {
